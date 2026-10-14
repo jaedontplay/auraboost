@@ -32,21 +32,23 @@ Add new material here as it becomes canon. "OPEN" = not decided yet.
 - **Personality:** cocky. He beat people up his whole life and doesn't take Petro seriously.
 - **Fight arc (LOCKED):** cocky → completely outmaneuvered → remembers Grandpa → stops chasing Petro → starts predicting where he'll land → traps the space Petro can teleport to → overwhelms him → deliberately stops his final punch beside Petro's face.
 - **He is never faster than Petro.** After the flashback he wins by reading movement, positioning and timing, and by controlling the battlefield. The win is earned, not a sudden power-up.
-- Wears **Grandpa's old silver dog tag** (proposed).
+- Wears **Grandpa's old silver dog tag** (proposed). His uniform is sleeveless (he ripped the sleeves off).
 
 ### Petro — Apex-Class Two, teleportation
 - 21, Mexican, one of Meridian's newest top agents.
-- **Teleport look (LOCKED):** an instant spatial snap. His body briefly distorts into directional streaks, there's a sharp white distortion frame, then he disappears and reappears. **No portals, no rings, no magic circles.**
+- **Teleport look (LOCKED):** an instant spatial snap. His body briefly distorts into **royal-blue** directional streaks and fading afterimages, there's a sharp white distortion frame, then he disappears and reappears. **No portals, no rings, no magic circles.**
 - **Fighting style:** strike, then teleport away instantly after every hit.
 - **Weakness:** he needs an open space to land in. When Zaire fills the arena with antimatter, he has nowhere safe left.
-- **Uniform:** the standard Meridian uniform, customized so people know he's Mexican: a poncho-style cape with an embroidered eagle crest, a Mexican flag patch on the left shoulder, a green-white-red scarf at the hip and goggles on his forehead. Tagline: *"Same uniform. Different roots."* (Original sheet: `refs/petro-original.png`.)
+- **Uniform:** the standard Meridian uniform plus a Mexican flag patch on the left sleeve, so people know he's Mexican. He's the only one with it. Tagline: *"Same uniform. Different roots."* (Original sheet: `refs/petro-original.png`.)
 - His line *"You must be Zaire." / "Depends who's asking."* is canon (Shot 03).
 
-### Malik
-- The voice of reason. He warns Zaire not to sleep on Petro. *(OPEN: is he Zaire's brother or cousin? What is his power and rank?)*
+### Malik — matter control
+- **Power: matter control.** He breaks matter apart into geometric fragments and reassembles it, for example into a shield wall. In the animation the fragments are edged with **emerald-green energy seams** (proposed color).
+- The voice of reason. He warns Zaire not to sleep on Petro. *(OPEN: is he Zaire's brother or cousin? What is his rank? Can he reshape the arena's indestructible material? Probably not.)*
 
-### Malik's girl
-- Just a friend for now. *(OPEN: her name.)* Original sheet: `refs/malik-girl-original.jpg` (high curly puff with braided sides, hooded wrap cape, respirator collar).
+### Malik's girl — light powers
+- **Power: light.** She fires beams of brilliant white-gold light and creates orbiting light ribbons and hard-light shards.
+- Just a friend for now. *(OPEN: her name and rank.)* Original sheet: `refs/malik-girl-original.jpg` (high curly puff with braided sides, hooded wrap cape, respirator collar).
 
 ### Grandpa
 - The best agent Meridian ever had. He trained Zaire in close-quarters combat.
@@ -66,9 +68,17 @@ Add new material here as it becomes canon. "OPEN" = not decided yet.
 
 ## Visual style (LOCKED)
 
-- High-end **Sukagan-style stick animation** with extreme sakuga: aggressive weight shifts, elastic smears, brutal hit-stops, white impact frames, speed-line bursts, perspective distortion, fisheye close-ups and rotating 3D camera moves.
-- **Characters:** minimalist solid-color stick silhouettes, each with a few signature costume shapes (Petro's poncho and scarf, the friend's hair puff and cape, and so on). The **powers provide the major color contrast**. The only small color on a character is Petro's flag patch and scarf.
+- **High-end hand-drawn 2D anime. NOT stick figures.** It uses Sukagan-style extreme sakuga: aggressive weight shifts, elastic smears, brutal hit-stops, white impact frames, speed-line bursts, perspective distortion, fisheye close-ups and rotating 3D camera moves.
 - **Backgrounds:** high-contrast, desaturated, geometric.
+- **Element sheet layout:** three vertical panels: (1) a head-and-shoulders close-up, (2) a full-body back view, (3) a full-body action pose with the power active. Reference: `refs/petro-meridian-uniform.png`.
+
+## Meridian uniform (LOCKED)
+
+- A black short-sleeve half-zip jersey with a high zip collar, white angular shoulder and side panels, and a vertical royal-blue stripe with white **MERIDIAN** lettering down the chest and back.
+- Black track pants with royal-blue and white side stripes and cuffed ankles.
+- Black fingerless tactical gloves.
+- Black-and-royal-blue high-top sneakers with chunky white soles.
+- **Variants:** Zaire is **sleeveless** (he ripped the sleeves off, leaving frayed edges). Malik's girl wears the **skirt version** (a pleated skirt with blue and white stripe trim over bike shorts). **Only Petro** wears the Mexican flag patch, on his left sleeve.
 
 ---
 
