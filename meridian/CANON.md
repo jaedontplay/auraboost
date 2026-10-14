@@ -6,95 +6,83 @@ Add new material here as it becomes canon. "OPEN" = not decided yet.
 
 ## Timeline
 
-1. **Grandpa dies.** He was the greatest agent Meridian ever had.
+1. **Grandpa dies.** He was the best agent Meridian ever had.
 2. **Zaire and Malik get their powers** right after his death.
 3. **Meridian takes them in.** In exchange for food, housing and protection, they serve as Meridian's **"Dog Soldiers."**
-4. **The Rank Trials** (Episode: *Rank Trials*). This happens soon after they're taken in. Everyone in Meridian shows off their powers in the training dome and gets ranked. Zaire vs. Petro is the featured fight.
+4. **Rank Trials / training evaluation.** Zaire vs. Petro (see Episodes).
+
+---
+
+## Power ranks
+
+- **Apex-Class:** numbered tiers. Petro is **Apex-Class Two**.
+- **Anomaly-Class:** above Apex. Zaire is **Anomaly-Class One**. An Anomaly power works on a fundamentally different level. For example, Zaire's power bypasses indestructibility.
+- Rank measures what the power is capable of, not how skilled the user is. That's why an Apex can outfight an Anomaly.
+- *(OPEN: How many Apex tiers are there, and does 1 or the highest number mean strongest? Are there ranks below Apex?)*
 
 ---
 
 ## Characters
 
-### Zaire
-- **Power:** Anti-matter. He makes black-violet "anti-matter flames" and charged strikes that annihilate whatever they touch.
-- **Rank:** **ZENITH-CLASS**, the highest rank Meridian has.
-- **Key rule:** Annihilation ignores durability. Zaire's powers **bypass Meridian's indestructible materials**, and he is the only known power that does.
-- **Personality:** Overconfident. He beat up plenty of people before Meridian and treats every opponent like a nobody. He doesn't listen when Malik tries to humble him.
-- **Fighting skills:** Grandpa trained him in hand-to-hand fighting and tactics.
-- **Lesson from Grandpa (the flashback):** *"You can't catch a fast man, Z. So don't chase him. Take away every place he can stand."* and *"When you got him, you decide if he walks away."*
-- **Arc in Rank Trials:** He loses badly at first, gets humbled, remembers Grandpa, wins with strategy instead of raw power, and **chooses to miss** the final punch.
-- **Look (proposed):** 18, dark brown skin, lean fighter build, short twists with a low taper fade, cocky half-smirk. Meridian recruit uniform (black and Meridian blue, no cape). Wears **Grandpa's old silver dog tag**.
+### Zaire — Anomaly-Class One, antimatter
+- **Antimatter look (LOCKED):** **deep red + violet energy filled with dense black particles.** The particles act like a snow globe: countless tiny particles float, swirl, collide and orbit inside the energy, and each one is visible on its own.
+  - **NEVER** black fire, purple smoke, red lightning, lava, liquid or generic energy.
+  - Shown in three states: **faint aura** (sparse particles drifting), **hurricane** (charged attack) and **controlled orbit** (after the flashback, particles move in organized orbital streams like a miniature universe).
+- **Key rule:** his antimatter bypasses the physical properties that make Meridian's arena indestructible. It's the only known power that does.
+- **Personality:** cocky. He beat people up his whole life and doesn't take Petro seriously.
+- **Fight arc (LOCKED):** cocky → completely outmaneuvered → remembers Grandpa → stops chasing Petro → starts predicting where he'll land → traps the space Petro can teleport to → overwhelms him → deliberately stops his final punch beside Petro's face.
+- **He is never faster than Petro.** After the flashback he wins by reading movement, positioning and timing, and by controlling the battlefield. The win is earned, not a sudden power-up.
+- Wears **Grandpa's old silver dog tag** (proposed).
 
-### Petro
-- **Age:** 21. One of Meridian's **newest top agents**.
-- **Power:** **Teleportation ("Blink")**.
-- **Rank:** **SOVEREIGN-CLASS**, one rank below Zenith. His power is rated lower than Zaire's, but his control and experience are far better.
-- **How Blink works:**
-  - It's instant. He leaves a crimson shard afterimage where he was.
-  - He sets an **anchor point** and can snap back to it, which gives him his hit-and-return fighting style (blink in, strike, blink back).
-  - He needs a **clear, physically open landing spot**. He **cannot blink into space that would destroy him**. This is his weakness, and Zaire's anti-matter flames exploit it.
-- **Personality:** Arrogant and a trash-talker. He taunts Zaire about Grandpa's legacy.
-- **Nationality:** Mexican. Tagline: *"Same uniform. Different roots."*
-- **Look (from your sheet, `refs/petro-original.png`):** short curly hair, tactical goggles pushed up on his forehead, goatee, hoop earrings, cross necklace, chain bracelet, Mexican flag patch on the left shoulder, poncho with an embroidered eagle crest, Mexican scarf, tactical gloves. Recolored into a Meridian blue-and-black uniform; the flag patch and scarf keep their true colors.
-- **Teleport effect:** a crimson-and-white glass-shard fracture with a fading afterimage.
-- **Note:** your sheet says "Apex-Class Two." The approved script uses "Sovereign-class." *(OPEN: which rank name to keep.)*
-- **Quote from your sheet:** *"You must be Zaire." / "Depends who's asking."*
+### Petro — Apex-Class Two, teleportation
+- 21, Mexican, one of Meridian's newest top agents.
+- **Teleport look (LOCKED):** an instant spatial snap. His body briefly distorts into directional streaks, there's a sharp white distortion frame, then he disappears and reappears. **No portals, no rings, no magic circles.**
+- **Fighting style:** strike, then teleport away instantly after every hit.
+- **Weakness:** he needs an open space to land in. When Zaire fills the arena with antimatter, he has nowhere safe left.
+- **Uniform:** the standard Meridian uniform, customized so people know he's Mexican: a poncho-style cape with an embroidered eagle crest, a Mexican flag patch on the left shoulder, a green-white-red scarf at the hip and goggles on his forehead. Tagline: *"Same uniform. Different roots."* (Original sheet: `refs/petro-original.png`.)
+- His line *"You must be Zaire." / "Depends who's asking."* is canon (Shot 03).
 
 ### Malik
-- Zaire's close companion who also got powers when Grandpa died. *(OPEN: are they brothers or cousins? What is Malik's power and rank?)*
-- He's the voice of reason. He tries to humble Zaire before the fight and gets brushed off.
-- **Look (proposed):** 19, taller and broader than Zaire, shoulder-length locs tied back, short beard, calm eyes. Meridian recruit uniform.
+- The voice of reason. He warns Zaire not to sleep on Petro. *(OPEN: is he Zaire's brother or cousin? What is his power and rank?)*
 
 ### Malik's girl
-- *(OPEN: her name.)* For now she's **just a friend**, but there's a romantic thread with Malik.
-- She knows Meridian's roster and is the one who tells Zaire who Petro is.
-- **Look (from your sheet, `refs/malik-girl-original.jpg`):** brown skin, freckles, curly high puff with braided sides, hoop earrings, respirator collar, hooded wrap cape, harness, fingerless gloves, cargo joggers, combat boots. Recolored into Meridian blue and black (the red bands and white stripes become blue).
+- Just a friend for now. *(OPEN: her name.)* Original sheet: `refs/malik-girl-original.jpg` (high curly puff with braided sides, hooded wrap cape, respirator collar).
 
 ### Grandpa
-- The greatest agent in Meridian's history. He died right before the story starts.
-- He raised and trained Zaire. *(OPEN: his name, his power, and how he died.)*
-- **Look (proposed):** late 60s, broad and still fit, short grey hair, full grey beard, laugh lines. In flashbacks he wears a white tank top, grey sweats and knuckle tape, plus the silver dog tag Zaire inherits.
+- The best agent Meridian ever had. He trained Zaire in close-quarters combat.
+- **His lessons (canon):** *"Stop chasing the punch."* · *"Make them chase you."* · *"Power don't make you dangerous. Knowing when to use it does."*
+- *(OPEN: his name, his power, and how he died.)*
 
 ---
 
 ## Meridian
 
-- A secret agency that houses, trains and deploys powered people.
-- **Recruits and agents are 17+.**
-- **Dog Soldiers:** powered kids Meridian takes in and uses as soldiers.
-- **Uniforms:** mainly **black and Meridian blue** (deep cobalt-navy), with blue arm bands and a small silver Meridian crest. Agents can personalize theirs (for example, Petro's flag patch and scarf).
-
-### The Dome (training arena)
-- A huge domed stadium with tiered bleachers on all sides, where trainees, agents and Meridian staff watch.
-- The fighting floor is an octagon of gunmetal hex-plates. The floor, walls and dome are all **indestructible**, so fighters can go all out.
-- **Exception:** Zaire's anti-matter goes through it. In Rank Trials he leaves a perfect round hole through the "indestructible" wall.
-- A single circular skylight (oculus) throws a hard white column of light onto the floor.
-- A rank display ring hangs from the dome.
+- **Recruits and agents are all 17+.**
+- **Uniforms:** mainly black and Meridian blue. Agents can personalize them (for example, Petro).
+- **The Dome (LOCKED):** an enormous enclosed futuristic stadium under a massive transparent dome. It has a **circular indestructible combat floor**, geometric architecture, reinforced walls, a huge Meridian insignia built into the structure, and multiple levels of bleachers packed with Meridian soldiers, recruits, instructors, scientists and personnel.
+- **Indestructibility (LOCKED):** the arena ignores conventional damage. It never randomly explodes. **Zaire's antimatter is the only exception**, and the final hole in the wall is the visual proof of that.
 
 ---
 
-## Meridian Power Classification (MPC)
+## Visual style (LOCKED)
 
-Rank measures the **ceiling of the power itself**, not how well someone uses it. That's why a lower-ranked fighter with great control can beat a higher one.
-
-| Rank | Name | Meaning |
-|---|---|---|
-| E | **Spark** | Minor ability with little combat value |
-| D | **Surge** | Useful in a fight, but limited range or output |
-| C | **Storm** | Can take down a squad |
-| B | **Breaker** | Can take down a building or a battalion |
-| A | **Sovereign** | Very rare. Breaks the normal rules of combat (e.g., Petro's teleportation) |
-| — | **ZENITH** | Off the scale. Only one known: Zaire. A power with no known defense, which goes through indestructible material |
+- High-end **Sukagan-style stick animation** with extreme sakuga: aggressive weight shifts, elastic smears, brutal hit-stops, white impact frames, speed-line bursts, perspective distortion, fisheye close-ups and rotating 3D camera moves.
+- **Characters:** minimalist solid-color stick silhouettes, each with a few signature costume shapes (Petro's poncho and scarf, the friend's hair puff and cape, and so on). The **powers provide the major color contrast**. The only small color on a character is Petro's flag patch and scarf.
+- **Backgrounds:** high-contrast, desaturated, geometric.
 
 ---
 
 ## Episodes
 
-### Rank Trials (Zaire vs. Petro), 2:00 total — SCRIPT APPROVED
-It's 4 clips of 30 seconds (Seedance 2.5). The prompts are in `rank-trials-prompts.md`. Art style: 2D anime characters with Sukagan-style sakuga motion and camera, on desaturated geometric backgrounds.
-
-- **0:00–0:45, Pre-fight.** The friend tells Zaire who Petro is. Malik tries to humble him. Zaire says "Grandpa ain't here." The PA announces both ranks. Petro taunts him.
-- **0:45–1:15, Zaire losing.** Every attack hits an afterimage. Petro blinks in, kicks or punches, then blinks back to his anchor. Petro trash-talks: *"Grandson of the greatest agent Meridian ever had. Zenith-class. And you can't touch a Sovereign."*
-- **1:15–1:30, Flashback.** Grandpa: "Take away every place he can stand."
-- **1:30–1:45, Turn.** Zaire floods the arena with anti-matter flames. Every landing spot gets erased, and Petro gets cornered against the wall.
-- **1:45–2:00, Finish.** Zaire walks out of the flames and throws a full-power punch that misses on purpose. It leaves a hole through the wall right by Petro's face. Zaire: *"That's what Zenith looks like... and I missed on purpose."* He walks away. Everyone is in shock.
+### Training Evaluation: Zaire vs. Petro (10 shots, about 2:30, in 5 Seedance 2.5 clips of 30 seconds)
+The prompts are in `rank-trials-prompts.md`.
+1. Dome establishing shot
+2. Malik warns Zaire (in the bleachers)
+3. Petro introduces himself; the evaluator announces the ranks
+4. Petro dominates the opening
+5. "Grandson of the best agent…"
+6. Grandpa flashback / the lesson
+7. Zaire learns to read Petro
+8. Antimatter floods the arena
+9. Zaire emerges
+10. The punch beside Petro's face: *"I could've hit you. … I just wanted you to know that."*
